@@ -2,7 +2,7 @@
 
 **Authors**: David Chang, Ashley Garcia, Xincheng Zhang, Nathan Wangidjaja  
 **Date**: Spring 2025  
-**Length**: 55 pages  
+**Length**: 35 pages  
 **Link to full paper**: [Uniswap_Final_Paper.pdf](https://github.com/nathanbwangidjaja/uniswap-v4/blob/main/Uniswap_Final_Paper__1_%20(1).pdf)  
 
 ---
